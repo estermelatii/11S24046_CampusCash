@@ -12,9 +12,9 @@ HTML5, CSS3, JavaScript vanilla (ES Modules), LocalStorage, Chart.js via CDN (**
 Karena memakai ES Modules, jalankan lewat local server (bukan klik dua kali):
 ```
 cd campuscash
-python -m http.server 8000
+python -m http.server 8001
 ```
-Buka http://localhost:8000 (atau pakai ekstensi Live Server di VS Code).
+Buka http://localhost:8001 (atau pakai ekstensi Live Server di VS Code).
 
 ## Struktur
 `index.html` (kerangka + navigasi), `css/style.css`, `js/` (app, storage, utils, transactions, budgets, statistics, savings), `tests/test-cases.md`.
